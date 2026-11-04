@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.22)
-project(UberknallInspired LANGUAGES CXX)
+project(UberknallInspired VERSION 1.0.0 LANGUAGES CXX)
 
 include(FetchContent)
 FetchContent_Declare(JUCE
